@@ -2889,6 +2889,13 @@ public final class Settings {
 
         /**
 	*
+	* SMOOTH PROGRESS BAR interpolator
+	* @hide
+	*/
+        public static final String PROGRESSBAR_INTERPOLATOR = "progressbar_interpolator";
+
+        /**
+	*
 	* SMOOTH PROGRESS BAR Mirror
 	* @hide
 	*/
